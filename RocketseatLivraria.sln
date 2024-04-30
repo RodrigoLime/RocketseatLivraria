@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketseatLivraria", "RocketseatLivraria.csproj", "{F7A4942B-910D-47FF-8F4C-1B333760EFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A4942B-910D-47FF-8F4C-1B333760EFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A4942B-910D-47FF-8F4C-1B333760EFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A4942B-910D-47FF-8F4C-1B333760EFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A4942B-910D-47FF-8F4C-1B333760EFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED566F0D-403B-4F37-8355-AE6362F04FB6}
+	EndGlobalSection
+EndGlobal
